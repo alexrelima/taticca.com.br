@@ -539,6 +539,46 @@ a {
   margin-bottom: 30px;
 }
 
+.section-5 {
+  background-image: url('../images/banner-video.jpg');
+  background-position: 0%;
+  background-size: cover;
+  padding-top: 140px;
+  padding-bottom: 140px;
+}
+
+.column-2 {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.container-4 {
+  max-width: 1400px;
+}
+
+.heading-9 {
+  color: #fff;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: 30px;
+  font-family: Titillium Web, sans-serif;
+  font-size: 28px;
+  display: flex;
+}
+
+.image-4 {
+  width: 453.328px;
+  max-width: 70%;
+  margin-top: 30px;
+}
+
+.column-3 {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
 @media screen and (min-width: 1920px) {
   .heading {
     aspect-ratio: auto;
