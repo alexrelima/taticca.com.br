@@ -183,7 +183,11 @@ a {
 .nav-dropdown-list.shadow-three.mobile-shadow-hide.w--open {
   border: 1px solid rgba(0, 0, 0, .1);
   border-radius: 0;
+<<<<<<< HEAD
   width: 700px;
+=======
+  width: 500px;
+>>>>>>> 93614ce68394a1eb8b81f0667bde2fda77467d4e
   margin-top: 35px;
   padding-top: 20px;
   padding-bottom: 0;
@@ -864,6 +868,7 @@ a {
   display: none;
 }
 
+<<<<<<< HEAD
 .section-10 {
   background-image: url('../images/banner-atuacao.jpg');
   background-position: 50%;
@@ -923,6 +928,8 @@ a {
   line-height: 30px;
 }
 
+=======
+>>>>>>> 93614ce68394a1eb8b81f0667bde2fda77467d4e
 @media screen and (min-width: 1920px) {
   .nav-menu-wrapper {
     font-size: 16px;
@@ -1002,6 +1009,7 @@ a {
   }
 
   .lista-servicos {
+<<<<<<< HEAD
     cursor: pointer;
     margin-bottom: 20px;
   }
@@ -1013,6 +1021,10 @@ a {
   .nav-link {
     font-size: 16px;
   }
+=======
+    margin-bottom: 20px;
+  }
+>>>>>>> 93614ce68394a1eb8b81f0667bde2fda77467d4e
 }
 
 @media screen and (max-width: 991px) {
